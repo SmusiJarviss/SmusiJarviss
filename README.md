@@ -24,17 +24,3 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" alt="unity logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SmusiJarviss/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <img height="200" src="https://avatars.githubusercontent.com/u/84509587?v=4"  />
-</div>
-
-###
