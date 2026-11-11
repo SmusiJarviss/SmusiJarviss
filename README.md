@@ -23,4 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" alt="unity logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45" alt="sql server logo"  />
+  <img width="14" />
+  <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/ced21b9b5241c1efa502a8c46ec7363a690a7058/icons/foxpro.svg" height="45" alt="visual foxpro logo"  />
 </div>
